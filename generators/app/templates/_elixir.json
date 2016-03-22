@@ -1,0 +1,11 @@
+{
+  "js": {
+    "outputFolder": "dist/js"
+  },
+  "css": {
+    "outputFolder": "dist/css",
+    "less": {
+      "folder": "./src/"
+    }
+  }
+}

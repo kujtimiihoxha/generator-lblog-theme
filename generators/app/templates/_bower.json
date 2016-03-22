@@ -1,0 +1,23 @@
+{
+  "name": "<%= name %>",
+  "description": "<%= description %>",
+  "authors": [
+    "<%= author %>"
+  ],
+  "license": "<%= licence %>",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies":{
+    "bootstrap-css-only": "^3.3.6"
+  }
+}
