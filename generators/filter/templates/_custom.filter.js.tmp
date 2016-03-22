@@ -1,0 +1,5 @@
+export function <%= filterName %>Filter() {
+	return function(input) {
+    //
+  };
+}

@@ -1,0 +1,16 @@
+class <%= componentName %>Controller {
+    constructor(User){
+        'ngInject';
+
+        //
+    }
+}
+
+export const  <%= componentName %>Component = {
+    templateUrl: './views/blog/components/<%= componentNameOrig %>/<%= componentNameOrig %>.component.html',
+    controller:  <%= componentName %>Controller,
+    controllerAs: 'vm',
+    bindings: {}
+}
+
+
