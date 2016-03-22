@@ -11,7 +11,7 @@
   "files": [
     "generators"
   ],
-  "main": "generators/index.js",
+  "main": "generators/app/index.js",
   "keywords": [
     "yeoman-generator"
   ],
@@ -39,7 +39,7 @@
       "mocha": true
     }
   },
-  "repository": "kujtimiihoxha/generator-lblog-theme",
+  "repository": "https://github.com/kujtimiihoxha/generator-lblog-theme",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
