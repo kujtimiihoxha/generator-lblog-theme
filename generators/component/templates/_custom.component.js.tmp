@@ -11,6 +11,6 @@ export const  <%= componentName %>Component = {
     controller:  <%= componentName %>Controller,
     controllerAs: 'vm',
     bindings: {}
-}
+};
 
 
